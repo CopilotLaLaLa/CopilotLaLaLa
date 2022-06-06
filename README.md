@@ -4,7 +4,6 @@
 📰My blog: https://space.bilibili.com/36005900
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CopilotLaLaLa"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=CopilotLaLaLa" />
 
 
 📚I'm a student.
@@ -21,6 +20,8 @@
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-green?style=flat-square&logo=androidstudio&logoColor=fff)
 
  ~~These are other tools~~
+ 
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=CopilotLaLaLa" />
  
 ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=Windows&logoColor=fff)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange?style=flat-square&logo=Ubuntu&logoColor=fff)
