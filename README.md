@@ -17,6 +17,7 @@
 🔨I use these tools to code
 
 ![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visualstudiocode&logoColor=fff)
+![AndroidStudio](https://img.shields.io/badge/--green?style=flat-square&logo=androidstudio&logoColor=fff)
 
  ~~These are other tools~~
  
