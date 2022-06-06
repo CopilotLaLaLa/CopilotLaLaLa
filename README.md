@@ -4,6 +4,7 @@
 📰My blog: https://space.bilibili.com/36005900
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CopilotLaLaLa"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=CopilotLaLaLa" />
 
 
 📚I'm a student.
@@ -26,8 +27,6 @@
 
 
 📫Contact me
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=CopilotLaLaLa" />
 
 * [![Email](https://img.shields.io/badge/Email-1060770125@qq.com-1?style=social&logoColor=fff)](mailto:1060770125@qq.com)
 * [![QQ](https://img.shields.io/badge/QQ-1060770125-1?style=social&logoColor=fff)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1060770125&website=www.oicqzone.com)
