@@ -11,8 +11,8 @@
 ✏I'm studying these now
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffca18?style=flat-square&logo=JavaScript&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-007d9c?style=flat-square&logo=Java&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=fff)
-
 
 🔨I use these tools to code
 
@@ -23,8 +23,6 @@
  
 ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=Windows&logoColor=fff)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange?style=flat-square&logo=Ubuntu&logoColor=fff)
-
-
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=CopilotLaLaLa" />
 
