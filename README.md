@@ -21,11 +21,10 @@
 
  ~~These are other tools~~
  
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=CopilotLaLaLa" />
- 
 ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=Windows&logoColor=fff)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-orange?style=flat-square&logo=Ubuntu&logoColor=fff)
 
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=CopilotLaLaLa" />
 
 📫Contact me
 
