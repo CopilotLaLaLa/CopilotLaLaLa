@@ -27,10 +27,10 @@
 
 📫Contact me
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=CopilotLaLaLa" />
+
 * [![Email](https://img.shields.io/badge/Email-1060770125@qq.com-1?style=social&logoColor=fff)](mailto:1060770125@qq.com)
 * [![QQ](https://img.shields.io/badge/QQ-1060770125-1?style=social&logoColor=fff)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1060770125&website=www.oicqzone.com)
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=CopilotLaLaLa" />
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2044%20mins-blue)
