@@ -31,8 +31,9 @@
 * [![Email](https://img.shields.io/badge/Email-1060770125@qq.com-1?style=social&logoColor=fff)](mailto:1060770125@qq.com)
 * [![QQ](https://img.shields.io/badge/QQ-1060770125-1?style=social&logoColor=fff)](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=1060770125&website=www.oicqzone.com)
 
-<!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%208%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46%20Thousand%20lines%20of%20code-blue)
+
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
