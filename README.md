@@ -35,5 +35,6 @@
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46%20Thousand%20lines%20of%20code-blue)
 
 <!--START_SECTION:waka-->
+1
 <!--END_SECTION:waka-->
 
